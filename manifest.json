@@ -1,7 +1,7 @@
 {
     "name": "Web 3 Starter for DESN 468",
     "short_name": "Web 3 Starter",
-    "description": "Description of App",
+    "description": "Description of Website or Web App",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
