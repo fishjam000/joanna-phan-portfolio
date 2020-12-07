@@ -1,11 +1,13 @@
 # Web 3 (Static) Starter
 
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-3-starter-static"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 ## Static How? 
 * No dynamic creation of HTML content, partials, or includes, etc.
 * No preprocesser or compilation of CSS, modularization of files, etc.
 * No JS front-end framework dependencies e.g. ReactJS
 
-## Files and Folders
+## Base Files and Folders
 Descriptions and purpose of core files and folders in this repo. 
 
 * `README.md` : The thing you're reading right now. 
@@ -16,7 +18,12 @@ Descriptions and purpose of core files and folders in this repo.
 * `img` folder : All the images. 
 * `img/favicons` : Icons for browsers, homescreens, apps, etc. Replace these with your own favicons via [Real Favicon Generator](https://realfavicongenerator.net/)
 
-* `.gitignore` : Tell version control to skip or ignore these files/folders.
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-3-starter-static"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
+## Addons
+
+* [Flickity from Meta](https://flickity.metafizzy.co/)
+* [Light Gallery](https://sachinchoolur.github.io/lightGallery/)
 
 ## Attributions
 
@@ -27,5 +34,4 @@ Cite your relevlant sources. For example:
 * Images from [Unsplash.com](https://unsplash.com/)
 * Lightbox image effect from [CodePen](https://codepen.io/manikoth/pen/vypeKo)
 
-
-
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/web-3-starter-static"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
