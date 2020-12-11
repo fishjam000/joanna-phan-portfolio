@@ -6,9 +6,11 @@
   * Remove when done
 */
 
-* {
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* * {
     outline: 1px dotted black;
-}
+} */
 
 /******************************
 Main Container/Wrapper
@@ -41,4 +43,12 @@ Flickity Styling
 .carousel .cell {
   background: gray;
   width: 100%;
+}
+
+
+/******************************
+Typography
+******************************/
+body {
+  font-family: 'Lato', sans-serif;
 }
